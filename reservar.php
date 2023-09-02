@@ -1,4 +1,4 @@
-<?php // se a quantidade de reservas for menor que a quantidade máxima, aparece o formulário de cadastr se não, aparece esgotado
+llllllllllllllllllllllllllll<?php // se a quantidade de reservas for menor que a quantidade máxima, aparece o formulário de cadastr se não, aparece esgotado
 include('quantidade.php');
 
 $maximo =  $reserva->quantidade;
